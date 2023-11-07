@@ -5,7 +5,7 @@ overflow: hidden;
 }
 
 body {
-  background: url(../img/cover.jpg) no-repeat center center fixed;
+  background: #000;
   background-size: cover;
   color: #fff;
   text-align: center;
