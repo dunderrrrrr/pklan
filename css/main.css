@@ -1,7 +1,7 @@
 html,
 body {
   height: 100%;
-    overflow: hidden;
+overflow: hidden;
 }
 
 body {
@@ -10,11 +10,6 @@ body {
   color: #fff;
   text-align: center;
   font-family: 'Quicksand', sans-serif;
-}
-canvas {
-    position:absolute;
-    top:0;
-    left:0;
 }
 
 #backgroundVideo {
